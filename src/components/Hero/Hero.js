@@ -21,7 +21,7 @@ const Hero = (props) => (
           development, system analysis, design, and database management.
           Aspiring to carve a path in front-end development.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={() => window.location = "mailto:minnkaungmyat00@gmail.com"}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
