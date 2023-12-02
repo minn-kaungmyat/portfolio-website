@@ -11,8 +11,8 @@ Make sure you have the following installed:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/minn-kaungmyat/react-meals.git
-cd react-meals
+git clone https://github.com/minn-kaungmyat/portfolio-website.git
+cd portfolio-website
 ```
 
 #### 2. Install Dependencies using npm
@@ -22,6 +22,7 @@ npm install
 
 #### 3. Start the application
 ```bash
-npm start
+npm run dev
 ```
+#### 4. Open http://localhost:3000 to view it in your browser.
 
