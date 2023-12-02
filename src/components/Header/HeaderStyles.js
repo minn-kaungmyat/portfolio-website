@@ -20,6 +20,10 @@ export const Container = styled.div`
 
 export const Span = styled.span`
   font-size: 2rem;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    font-size: 15px;
+    margin-left: 5px;
+  }
 `
 
 export const Div1 = styled.div`
