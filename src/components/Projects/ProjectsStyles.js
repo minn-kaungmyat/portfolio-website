@@ -25,7 +25,7 @@ row-gap: 3rem;
 `
 export const BlogCard = styled.div`
   border-radius: 20px;
-  box-shadow: 3px 3px 15px rgba(80, 78, 78, 0.5);
+  box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.2);
   text-align: center;
   width: 400px;
   background: linear-gradient(118deg, #302B63 45%, #24243E 100%);
