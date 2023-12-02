@@ -24,4 +24,5 @@ npm install
 ```bash
 npm run dev
 ```
+#### 4. Open http://localhost:3000 to view it in your browser.
 
