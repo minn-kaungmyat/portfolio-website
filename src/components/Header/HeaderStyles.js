@@ -21,8 +21,8 @@ export const Container = styled.div`
 export const Span = styled.span`
   font-size: 2rem;
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 15px;
     margin-left: 5px;
+    margin-top: 3px;
   }
 `
 
@@ -64,6 +64,7 @@ export const NavLink = styled.a`
     color: #fff;
     opacity: 1;
     cursor: pointer;
+    font-size: 2.06rem;
   }
   @media ${(props) => props.theme.breakpoints.sm} {
     padding: 0.5rem;
